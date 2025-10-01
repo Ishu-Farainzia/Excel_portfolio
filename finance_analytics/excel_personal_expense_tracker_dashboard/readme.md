@@ -1,5 +1,8 @@
 # 📊 Personal Finance Dashboard (Excel)
 
+## Dashboard
+- ![Personal_Expense_tracker](https://github.com/Ishu-Farainzia/Excel_portfolio/blob/main/finance_analytics/excel_personal_expense_tracker_dashboard/image/expense_tracker_dashboard.png)
+
 ## 📌 Project Overview
 This project focuses on analyzing personal income and expenses using **Excel Pivot Tables, Charts, and Formulas** to create an interactive dashboard.  
 The goal was to track **monthly cash flow, expense distribution, and savings trends** while identifying areas for financial improvement.
@@ -65,14 +68,10 @@ The goal was to track **monthly cash flow, expense distribution, and savings tre
 
 ---
 
-## 📸 Dashboard Preview
-*(Insert screenshot of your dashboard here)*
-
----
-
 ## 📊 Business Recommendations
 - Optimize discretionary expenses (~23% of total) to improve savings further.  
 - Monitor **Rent & Living Expenses** closely, as they form the bulk of spending.  
 - Maintain current income-to-expense ratio to sustain healthy savings growth.  
 
 ---
+
